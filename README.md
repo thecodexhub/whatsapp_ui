@@ -1,4 +1,4 @@
-# whatsappui
+# WhatsApp UI
 
 WhatsApp UI developed using Flutter.
 

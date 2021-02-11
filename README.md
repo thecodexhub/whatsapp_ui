@@ -1,6 +1,6 @@
 # WhatsApp UI
 
-WhatsApp UI developed using Flutter.
+WhatsApp UI clone built with Flutter.
 
 ## Screenshots
 

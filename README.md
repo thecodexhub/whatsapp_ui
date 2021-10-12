@@ -1,6 +1,6 @@
 # WhatsApp UI
 
-WhatsApp UI clone built with Flutter.
+WhatsApp UI clone made with Flutter.
 
 ## Screenshots
 
@@ -45,10 +45,10 @@ WhatsApp UI clone built with Flutter.
  
    <div style="text-align: center"><table><tr>
  <td style="text-align: center">
- <img src="screenshots/search_bar.png" width="610" />
+ <img src="screenshots/search_bar.png" width="296" />
  </td>
  <td style="text-align: center">
- <img src="screenshots/settings.png" width="610"/>
+ <img src="screenshots/settings.png" width="296"/>
  </td>
  </tr></table>
  </div>
